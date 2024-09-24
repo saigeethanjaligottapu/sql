@@ -1,3 +1,7 @@
  this is first1 file
+<<<<<<< HEAD
 this is chnaged by me
+=======
+this not my first file
+>>>>>>> 1609f72ff91e99c226a4702bc7731a15fa6c8085
 this is changed file
