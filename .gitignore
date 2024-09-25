@@ -1,5 +1,9 @@
-### AL ###
+## AL ###
 #Template for AL projects for Dynamics 365 Business Central
+# ignore log/zip file
+*.log
+*.zip
+
 #launch.json folder
 .vscode/
 #Cache folder
